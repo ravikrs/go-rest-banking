@@ -103,3 +103,6 @@ flowchart LR
   A --> TOP --> B
   B1 --> B2
 ```
+
+go mod init github.com/ravikrs/go-rest-banking/s2  
+go mod tidy 
